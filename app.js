@@ -7,11 +7,11 @@
 var express= require('express')
 var mysql = require('mysql');
 var con = mysql.createConnection({
-    host: "database-1.clh7wx5dgf4j.us-east-2.rds.amazonaws.com",
-    user: "admin",
-    password: "Bushra123#",
-    database: "test",
-    port:"3306"
+    host: "",
+    user: "",
+    password: "",
+    database: "",
+    port:""
   });
 const mock_data= [{
     "name":"bushra",
