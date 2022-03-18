@@ -14,7 +14,7 @@ var con = mysql.createConnection({
     port:""
   });
 const mock_data= [{
-    "name":"bushra",
+    "name":"bushra baig",
     "age": 21,
     "is_married": false,
     "hobbies": ["cooking", "gaming"],
